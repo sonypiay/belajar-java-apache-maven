@@ -1,0 +1,5 @@
+# Created at 2024-09-29T14:58:55.811
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ProgrammingBebas\JavaProgramming\belajar-apache-maven\belajar-apache-maven-app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
